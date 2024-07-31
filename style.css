@@ -1,0 +1,91 @@
+*{
+    background-color: antiquewhite;
+}
+#navbar{
+
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    background-color: darkorange;
+    padding: 10px;
+
+}
+.imgNavBar{
+    background-color: aliceblue;
+    border: 2px solid black;
+    height: 50px;
+
+}
+#imgnavbar{
+    background-color: aliceblue;
+    height: 28px;
+
+}
+#pesk{
+    border: 3px solid black;
+    display: flex;
+    background-color: aliceblue;
+
+}
+#peskisa{
+
+    background-color: aliceblue;
+    min-width: 500px;
+    max-height: 35px;
+
+}
+.linknavbar{
+
+    text-decoration: none;
+    color:aliceblue;
+    background-color: rgba(255, 217, 0, 0);
+
+}
+#butnavbar{
+    background-color: aliceblue;
+}
+
+/* até aqui é sobre a navbar*/
+
+.prod{
+
+    border: 3.5px solid red;
+    width: 300px;
+    text-align: center;
+    background-color: goldenrod;
+    position: relative;
+    border-radius: 5px;
+}
+.prods{
+
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    font-size: 20px;
+    height: 500px;
+}
+.palavra{
+
+    background-color: goldenrod;
+    max-height: 120px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.botaodahora{
+
+    color: red;
+    background-color: orange;
+    height: 40px;
+    width: 80px;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 20px;
+    position: absolute;
+    bottom: 5px;
+    right: 90px;
+    border-radius: 5px;
+    
+
+}
